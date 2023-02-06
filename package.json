@@ -1,0 +1,23 @@
+{
+  "name": "tarkov-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot with Escape From Tarkov information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanmn/tarkov-bot.git"
+  },
+  "author": "Allan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanmn/tarkov-bot/issues"
+  },
+  "homepage": "https://github.com/allanmn/tarkov-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4"
+  }
+}
